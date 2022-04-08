@@ -1,0 +1,1 @@
+Floussi is a personal project developed using Python, Django for backend, HTML/CSS and Bootstrap for frontend and PostgreSQL as database. This dashboard helps manage and track personal incomes and expenses and can show statistics about your monney flow.
